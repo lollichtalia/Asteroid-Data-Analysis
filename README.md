@@ -1,4 +1,4 @@
-# ☄️ Near-Earth Asteroid Explorer
+# ☄️ Asteroid Data Analysis
 
 A data exploration and AI-assisted analytics project built using NASA Near-Earth Object (NEO) data.
 
